@@ -1,7 +1,7 @@
 .header {
-    background-color: pink;
+    background-color: white;
     display: flex;
-    height:30%;
+    height:10%;
 }
 .middle {
     background-color: yellow;
@@ -18,4 +18,8 @@
     width: 100%;
      margin: 0  ;
      padding: 0;
+}
+.logo {
+    width: 150px;
+    height: 150px;
 }
