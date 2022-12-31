@@ -1,0 +1,21 @@
+.header {
+    background-color: pink;
+    display: flex;
+    height:30%;
+}
+.middle {
+    background-color: yellow;
+    display: flex;
+    height: 40%;
+}
+.footer {
+    background-color: pink;
+    display: flex;
+    height: 30%;
+}
+.body {
+    height: 100%;
+    width: 100%;
+     margin: 0  ;
+     padding: 0;
+}
