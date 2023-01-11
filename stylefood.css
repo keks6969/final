@@ -1,0 +1,13 @@
+.food{
+    background-color: lightcoral;
+
+}
+.banh-img{
+    height:200px;
+    width: 200px;
+   
+}
+.banh-img-container{
+display: flex;
+justify-content: space-around;
+}
