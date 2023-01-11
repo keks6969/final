@@ -7,7 +7,26 @@
     width: 200px;
    
 }
-.banh-img-container{
+.img-container{
 display: flex;
 justify-content: space-around;
+}
+.tradition{
+    background-color: lightgreen;
+}
+.activity {
+    background-color: lightskyblue;
+}
+.origin{
+    background-color: lightsalmon;
+}
+.travel{
+    background-color: lightseagreen;
+}
+*{
+    font-family: 'Poppins', sans-serif;
+
+}
+p {
+    font-family: 'Roboto', sans-serif;
 }

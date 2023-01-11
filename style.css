@@ -4,6 +4,8 @@
     margin: 0;
     padding: 0;
     text-decoration: none;
+    font-family: 'Poppins', sans-serif; 
+
 }
 
 .body {
@@ -11,7 +13,7 @@
     width: 100%;
     display: block;
     line-height: 1.5;
-    font-family: 'Poppins', sans-serif;
+     
 
 }
 
@@ -27,6 +29,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    
 }
 
 .navbar-item {
@@ -171,4 +174,7 @@ ul {
 .dictionary-button{
     justify-content: center;
     color: black;
+}
+p {
+    font-family: 'Roboto', sans-serif;
 }
